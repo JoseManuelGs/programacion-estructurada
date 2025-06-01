@@ -74,25 +74,25 @@ import os
 
 #Ejemplo 4 Crear una lista multidimensional que permita almacenar el nombre y telefono de una agenda
 
-agenda=[
-        ["Carlos","6181234567"],
-        ["Alberto","6671234567"],
-        ["Martin","6785678923"]
-       ]
+# agenda=[
+#         ["Carlos","6181234567"],
+#         ["Alberto","6671234567"],
+#         ["Martin","6785678923"]
+#        ]
 
-print(agenda)
+# print(agenda)
 
-for i in agenda:
-    print(i)
+# for i in agenda:
+#     print(i)
 
-for r in range(0,3):
-    for c in range(0,2):
-        print(agenda[r][c])    
+# for r in range(0,3):
+#     for c in range(0,2):
+#         print(agenda[r][c])    
 
-cadena=""
-for r in range(0,3):
-    for c in range(0,2):
-      cadena+=f"{agenda[r][c]}, "
-    cadena+="\n"     
-print(cadena) 
+# cadena=""
+# for r in range(0,3):
+#     for c in range(0,2):
+#       cadena+=f"{agenda[r][c]}, "
+#     cadena+="\n"     
+# print(cadena) 
 

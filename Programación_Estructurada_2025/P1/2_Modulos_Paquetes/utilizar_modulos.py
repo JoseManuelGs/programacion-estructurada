@@ -1,8 +1,8 @@
 # 1er forma de utilizar los modulos 
-# import modulos
+import modulos
 
-# modulos.borrarPantalla()
-# print(modulos.saludar("Roberto Figeroa Paez"))
+modulos.borrarPantalla()
+print(modulos.saludar("Roberto Figeroa Paez"))
 
 #2da forma de utilizar modulos
 
