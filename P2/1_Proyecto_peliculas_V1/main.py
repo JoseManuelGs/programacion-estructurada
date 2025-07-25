@@ -7,6 +7,7 @@ import peliculas
 import os
 os.system("cls")
 
+
 opcion=True
 while opcion:
     peliculas.borrarPantalla()
