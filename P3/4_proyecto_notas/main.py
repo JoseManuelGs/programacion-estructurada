@@ -1,4 +1,4 @@
-import funciones
+import PF.funciones as funciones
 from usuarios import usuario
 from notas import nota
 import getpass
